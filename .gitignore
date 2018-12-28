@@ -61,5 +61,5 @@ typings/
 .next
 
 manifest.json
-js
-img
+/js/
+/img/
